@@ -1,0 +1,7 @@
+[
+    {
+        "key": "F9",
+        "command": "command-runner.run",
+        "args": { "command": "mingw32-make" }
+    }
+]
