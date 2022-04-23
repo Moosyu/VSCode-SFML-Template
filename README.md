@@ -11,3 +11,5 @@ How to use the custom keybinds:
 [Video](https://www.youtube.com/watch?v=VCgRzknFoeM)
 
 Now use the command mingw32-make in terminal or if you have setup the keybind use F9
+
+Ask me anything on discord: meme companies#0440
